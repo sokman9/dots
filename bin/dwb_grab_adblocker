@@ -34,7 +34,7 @@ https://easylist-downloads.adblockplus.org/easylistitaly.txt
 #http://stanev.org/abp/adblock_bg.txt
 
 # Easylist Indonesia
-#http://indonesianadblockrules.googlecode.com/hg/subscriptions/abpindo.txt
+http://indonesianadblockrules.googlecode.com/hg/subscriptions/abpindo.txt
 
 # Easylist Finland
 #http://www.wiltteri.net/wiltteri.txt
@@ -44,17 +44,17 @@ https://easylist-downloads.adblockplus.org/easylistitaly.txt
 
 # Adversity
 # Adversity English list
-#https://adversity.googlecode.com/hg/Adversity.txt  
+https://adversity.googlecode.com/hg/Adversity.txt  
 
 # Adversity Privacy
-#https://adversity.googlecode.com/hg/Adversity-Tracking.txt
+https://adversity.googlecode.com/hg/Adversity-Tracking.txt
 
 # Fanboy
 # Fanboy English list
-#http://www.fanboy.co.nz/adblock/fanboy-adblock.txt
+http://www.fanboy.co.nz/adblock/fanboy-adblock.txt
 
 # Fanboy Tracking list
-#http://www.fanboy.co.nz/adblock/fanboy-tracking.txt
+http://www.fanboy.co.nz/adblock/fanboy-tracking.txt
 
 # Antisocial
 https://adversity.googlecode.com/hg/Antisocial.txt
